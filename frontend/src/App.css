@@ -1,0 +1,11 @@
+.App{
+  background-image: "3.jpg";
+  /* background-image: "../hero-bg.jpg"; */
+  /* background-color: white; */
+    text-align: justify;
+    display: grid;
+    /* background-image:"./public/bg.jpg"; */
+    text-shadow: darkcyan;
+  background-size: cover;
+  
+}
